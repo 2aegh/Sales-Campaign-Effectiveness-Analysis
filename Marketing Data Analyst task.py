@@ -134,5 +134,5 @@ def analyze_campaign(file_path):
     plot_bar_chart([group_a, group_b, group_c], calculate_apa, 'Average Profit per Agent (APA)')
     plot_bar_chart([group_a, group_b, group_c], calculate_sp, 'Sales Performance (SP)')
 # File path to the Excel file
-file_path = r"C:\Users\amira\Downloads\Interview Case.xlsx"  # Replace with the actual file path
+file_path = r"C:\Users\amira\Downloads\case_study.xlsx"  # Replace with the actual file path
 analyze_campaign(file_path)
