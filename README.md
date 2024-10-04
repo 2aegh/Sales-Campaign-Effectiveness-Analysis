@@ -145,7 +145,9 @@ The following KPIs were defined to assess the campaign:
 - **Data-Driven Approach**: Defining clear KPIs enables objective evaluation and informed decision-making.
 - **Adaptability**: Being willing to adjust strategies based on data and feedback leads to more successful outcomes.
 
-## Author
+## Contact
+For questions or feedback, please contact **Amirali Eghtesad** at amirali.egh@gmail.com .
 
-**Amirali Eghtesad**
+---
+
 
